@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "root",
     "password": "fact2022",
     "database": "TGMS",
     "host": "127.0.0.1",
